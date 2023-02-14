@@ -17,8 +17,8 @@ PlayerSettings:
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
-  m_ShowUnitySplashScreen: 0
-  m_ShowUnitySplashLogo: 0
+  m_ShowUnitySplashScreen: 1
+  m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
   m_SplashScreenAnimation: 1
   m_SplashScreenLogoStyle: 1
@@ -867,11 +867,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 74ef7147-1e78-4350-bed9-8c58ac723e13
+  cloudProjectId: 13703a5b-9ae0-4e35-8b93-66c2c86007e5
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Relay
-  organizationId: pendulum-7b422b9c-1f6d-4410-8c3a-e020abbfb916
+  organizationId: hwkw0601
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
